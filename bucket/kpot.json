@@ -1,0 +1,14 @@
+{
+    "version": "0.5.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Shin-R2un/kpot/releases/download/v0.5.1/kpot_0.5.1_windows_amd64.zip",
+            "bin": [
+                "kpot.exe"
+            ],
+            "hash": "edff0c5848227e9d26168d9f124ae71a3371a12fbeb6478612eb874c4764ddb3"
+        }
+    },
+    "homepage": "https://github.com/Shin-R2un/kpot",
+    "description": "Encrypted CLI note vault: 1 file = 1 vault, with passphrase + recovery seed."
+}
