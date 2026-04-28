@@ -1,12 +1,12 @@
 {
-    "version": "0.5.1",
+    "version": "0.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Shin-R2un/kpot/releases/download/v0.5.1/kpot_0.5.1_windows_amd64.zip",
+            "url": "https://github.com/Shin-R2un/kpot/releases/download/v0.6.0/kpot_0.6.0_windows_amd64.zip",
             "bin": [
                 "kpot.exe"
             ],
-            "hash": "edff0c5848227e9d26168d9f124ae71a3371a12fbeb6478612eb874c4764ddb3"
+            "hash": "af6bcf1a8c3f02d9a9aaee129e893029e11f03086a58f2adf2840a19fe20dd19"
         }
     },
     "homepage": "https://github.com/Shin-R2un/kpot",
