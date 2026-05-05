@@ -1,12 +1,12 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Shin-R2un/pe/releases/download/v0.2.3/pe_0.2.3_windows_amd64.zip",
+            "url": "https://github.com/Shin-R2un/pe/releases/download/v0.2.4/pe_0.2.4_windows_amd64.zip",
             "bin": [
                 "pe.exe"
             ],
-            "hash": "06c6f9507dc9479674a323f6f6cecd90c27dad9873819abb0df17a2ab37f6143"
+            "hash": "102bc04edc62c283be4fcbaaf425db230c9f6fdbf15de75181c582f26e932341"
         }
     },
     "homepage": "https://github.com/Shin-R2un/pe",
