@@ -1,0 +1,14 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Shin-R2un/pe/releases/download/v0.2.1/pe_0.2.1_windows_amd64.zip",
+            "bin": [
+                "pe.exe"
+            ],
+            "hash": "8e22879d67b3b71e776760687cccffe10473205d3040d9d1e41f3cb938de6f29"
+        }
+    },
+    "homepage": "https://github.com/Shin-R2un/pe",
+    "description": "Tiny CLI snippet launcher for ぺっと貼る — copy and paste saved snippets in one shot."
+}
